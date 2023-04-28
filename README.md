@@ -1,4 +1,4 @@
-### Hi~
+###
 <div align="center">Im <img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&show_icons=true&theme=buefy)
