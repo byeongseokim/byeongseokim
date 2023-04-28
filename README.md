@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi
 
 <!--
 **byeongseokim/byeongseokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/byeongseok-blue?style=for-the-badge&logo=instacart&logoColor=FF5D01"/>
+<img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
