@@ -1,5 +1,5 @@
-### Hi Im
-<img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/>
+### Hi~
+Im <img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/>
 <!--
 **byeongseokim/byeongseokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
