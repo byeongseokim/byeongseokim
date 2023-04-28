@@ -1,8 +1,8 @@
 ### Hi~
-Im <img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/>
+<div align="center">Im <img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/></div>
 
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&show_icons=true&theme=buefy)</div>
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=buefy)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=buefy)
 <!--
 **byeongseokim/byeongseokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
