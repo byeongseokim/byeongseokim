@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=buefy)
-[![byeongseokim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=byeongseokim)]
+
 <!--
 **byeongseokim/byeongseokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
