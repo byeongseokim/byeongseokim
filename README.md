@@ -1,4 +1,5 @@
-###![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=60)
+###
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello&fontSize=50)
 
 <div align="center">Im <img src="https://img.shields.io/badge/byeongseok-blue?style=flat&logoColor=FF5D01"/></div>
 
