@@ -12,7 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=swift&custom_title=많이사용되는언어)
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byeongseokim&repo=github-readme-stats)](https://github.com/byeongseokim)  
 
 
 
