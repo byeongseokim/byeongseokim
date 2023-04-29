@@ -10,7 +10,7 @@
 [![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false)](https://github.com/byeongseokim/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim)](https://github.com/byeongseokim)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim)&img align="right" style="height:150px"](https://github.com/byeongseokim)  
 <a href="https://github.com/byeongseokim"><img align="right" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=swift&hide_border=true></a> 
 
 
