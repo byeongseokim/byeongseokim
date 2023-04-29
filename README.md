@@ -13,8 +13,7 @@
 
   
 ![byeongseokim profile](http://mazandi.herokuapp.com/api?handle=byeongseok's잔디&theme=warm)  
-pip install -r requirements.txt
-uvicorn main:app --reload
+
   
 
 
