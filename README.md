@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=swift&custom_title=많이사용되는언어)
 
   
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)  
+![byeongseokim profile](http://mazandi.herokuapp.com/api?handle={byeongseok}&theme=warm)  
   
 
 
