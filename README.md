@@ -1,7 +1,7 @@
 ###
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hello&fontSize=50)
 
-<div align="center">Im <img src="https://img.shields.io/badge/byeongseok-skyblue?style=plastic&logo=apachespark&logoColor=FF5D01"/></div>
+<div align="center">Im <img src="https://img.shields.io/badge/byeongseok-skyblue?style=plastic&logo=apachespark&logoColor=F9DC3E"/></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=buefy)
