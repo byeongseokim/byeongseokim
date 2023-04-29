@@ -12,6 +12,8 @@
 
   
 <a href="https://github.com/byeongseokim"><img align="right" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=swift&hide_border=true&custom_title=가장많이쓰는언어" /></a> 
+  
+[![byeongseok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=byeongseokim)](https://github.com/byeongseokim)
 
 
 
