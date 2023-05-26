@@ -9,9 +9,7 @@
 
 [![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false)](https://github.com/byeongseokim)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&theme=swift&custom_title=많이사용되는언어)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&custom_title=많이사용되는언어)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&layout=compact&custom_title=많이사용되는언어)
 
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=twinkling&section=footer)
