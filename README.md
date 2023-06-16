@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongseokim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/byeongseokim)
 
 
-[![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false)](https://github.com/byeongseokim)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&hide=html&layout=compact&custom_title=많이사용되는언어)
+[![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false)](https://github.com/byeongseokim)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&hide=html&layout=compact&custom_title=많이사용되는언어)
 
 
   
