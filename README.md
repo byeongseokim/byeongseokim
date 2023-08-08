@@ -92,9 +92,9 @@
 
 -->
 
+<div align="left">
 
-
-<summary> 🎥 Histories </summary>
+<summary> 🎥 Histories </summary> <br>
 <!-- <div align="center"> -->
   
 | Date | Contents | With |
@@ -105,10 +105,11 @@
 <!-- </div> -->
 
 
+<br><hr>
 <summary> 💻 Projects </summary>
 
 
-<div align="left">
+
 
 
 #### 👨‍👩‍👦‍👦 Team
