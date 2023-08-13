@@ -63,14 +63,17 @@
 
 <div align="left">
 
-<summary> 🎥 Histories </summary> <br>
+## 🎥 Histories <br>
 <!-- <div align="center"> -->
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
+| 23.07.31 ~ 23.08.11 | React와 SpringBoot를 연동하여 만든 스케쥴 체크 프로그램 | FullStack 개인 프로젝트 |
 | 23.07.10 ~ 23.07.28 | NEVER WEB community site | Spring 팀 프로젝트 |
 | 23.06.12 ~ 23.06.26 | Seoul Festival | JSP 팀 프로젝트 |
+| 23.06.04 ~ 23.06.10 | MVC2 패턴을 이용해 JSP 게시판 만들기 | JSP 개인 프로젝트 |
 | 23.05.15 ~ 23.05.25 | 순수 자바 콘솔 게시판 | 자바 팀 프로젝트 |
+| 23.05.11 ~ 23.05.15 | OracleXE와 자바를 연동하여 게시판 구현 | 자바 개인 프로젝트 |
 | 23.04 ~ 23.08 | AWS활용 자바 풀스택개발(큐레이팅커머스) 과정중 (산대특)| 안산 이젠컴퓨터아카데미 |
 | 16.03 ~ 23.02 | 토목 공학과 학사 졸업 | 청주대학교 |
   
